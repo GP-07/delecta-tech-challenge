@@ -1,0 +1,2102 @@
+[
+ {
+  "venue_id": "93507",
+  "section": "Pasta",
+  "name": "Rigatoni a la Verdure",
+  "description": "Verduras variadas y salsa de tomate",
+  "category": "pasta varieties"
+ },
+ {
+  "venue_id": "104568",
+  "section": "Fajita Wraps",
+  "name": "Fajita Gust Pollo Asado",
+  "description": "Tortilla wraps tostada con pollo mechado asado, cuatro quesos, pimientos fritos y cebolla",
+  "category": "burrito"
+ },
+ {
+  "venue_id": "38971",
+  "section": "Platos",
+  "name": "Rollo Primavera, 4 Unidades",
+  "description": "",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "90021",
+  "section": "Breakfast Pots",
+  "name": "Pistachio Dark-Chocolate Vegan Overnight Oats",
+  "description": "Our most popular oat pot: Creamy goodness of overnight oats, our homemade pistachio cream, dark chocolate, and crunchy pistachios. A decadent yet wholesome way to start your day, satisfying your cravings while fuelling your body.",
+  "category": "other sweets"
+ },
+ {
+  "venue_id": "85494",
+  "section": "Vinos Tintos",
+  "name": "Vino Tinto Rioja Gran Logrado de crianza",
+  "description": "Elige la cantidad: Botella de 75cl, Botella de 50cl o Botella de 25cl desde 8.40€....Gran Logrado de Crianza - D.O. Ca. Rioja 14% Vol. (Tempranillo)",
+  "category": "tintos"
+ },
+ {
+  "venue_id": "47277",
+  "section": "Postres",
+  "name": "Chocolate en 4 Texturas.",
+  "description": "Cremoso de chocolate equateur, genovesa de chocolate, nib´s de cacao y chocolate y salsa de chocolate y miso.",
+  "category": "chocolate"
+ },
+ {
+  "venue_id": "94100",
+  "section": "Tacos",
+  "name": "Taco de Hígado",
+  "description": "",
+  "category": "taco"
+ },
+ {
+  "venue_id": "4472",
+  "section": "Platos con Pollo",
+  "name": "Pollo al Curry",
+  "description": "Curry tradicional a base de cebollas y tomate, condimentado con una variedad de especias aromáticas",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "87118",
+  "section": "Entrantes",
+  "name": "Shaomai 6u",
+  "description": "Dumpling de cerdo y setas al vapor",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "95096",
+  "section": "Platos Marinos",
+  "name": "Chupe de Camarones",
+  "description": "Cremosa sopa peruana con camarones, leche, papas y ají panca.",
+  "category": "prawn"
+ },
+ {
+  "venue_id": "95960",
+  "section": "Mixto",
+  "name": "Mixto, Patatas y Ensalada",
+  "description": "",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "104950",
+  "section": "Pizza",
+  "name": "Pizza Padronet",
+  "description": "Crema de pimiento verde, provola ahumada, chistorra y pimiento del padrón",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "60924",
+  "section": "Empanadas",
+  "name": "Empanada de Pabellón",
+  "description": "Masa de maíz con fríjol negro, queso blanco, carne mechada y plátano macho maduro",
+  "category": "empanada"
+ },
+ {
+  "venue_id": "205818",
+  "section": "Postres",
+  "name": "Flan te verde",
+  "description": "",
+  "category": "other sweets"
+ },
+ {
+  "venue_id": "86968",
+  "section": "Entrantes",
+  "name": "2. Edamame(毛豆)",
+  "description": "Judias verdes saladas",
+  "category": "legumes"
+ },
+ {
+  "venue_id": "28054",
+  "section": "Hamburguesas",
+  "name": "Whopper®",
+  "description": "Carne 100% vacuno, lechuga y tomate de la huerta, suave cebolla y pepinillos",
+  "category": "burger"
+ },
+ {
+  "venue_id": "59894",
+  "section": "Niguiris",
+  "name": "Niguiri Ikura",
+  "description": "Huevas de salmón",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "94453",
+  "section": "Canastas",
+  "name": "Patatas Fritas",
+  "description": "Porción de patatas fritas",
+  "category": "fries"
+ },
+ {
+  "venue_id": "43824",
+  "section": "Bocadillos",
+  "name": "Bocadillo Salchichas del País",
+  "description": "",
+  "category": "sandwich"
+ },
+ {
+  "venue_id": "83547",
+  "section": "Entrantes",
+  "name": "La Verde",
+  "description": "Ensalada variada, tomate, espárragos blancos, pimiento rojo, apio, atún y huevo duro\nAssorted salad, tomato, white asparagus, red pepper, celery, tuna, hard boiled egg",
+  "category": "salads"
+ },
+ {
+  "venue_id": "46893",
+  "section": "Entrantes",
+  "name": "Croquetas de Jamón, 3 Unidades",
+  "description": "",
+  "category": "croquetas"
+ },
+ {
+  "venue_id": "77293",
+  "section": "Para Picar",
+  "name": "Kimchi",
+  "description": "Sin gluten\nCol picante",
+  "category": "other vegetables"
+ },
+ {
+  "venue_id": "39768",
+  "section": "Ofertas",
+  "name": "Alitas de Pollo con Patatas, 6 Unidades",
+  "description": "6 unidades",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "96252",
+  "section": "Pizzas",
+  "name": "Pizza Atún",
+  "description": "Tomate, queso, atún y gambas",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "79119",
+  "section": "ARROZ CON POLLO",
+  "name": "La Caja Coreana",
+  "description": "Arroz blanco con 2 tiras crujientes, aguacate, col roja encurtida, cebolla crispy y salsa BBQ coreana + Complemento a elegir",
+  "category": "other rice"
+ },
+ {
+  "venue_id": "104356",
+  "section": "Combos ​🥟🥤",
+  "name": "12  empanadas",
+  "description": "Combo de 12 empanadas",
+  "category": "empanada"
+ },
+ {
+  "venue_id": "54280",
+  "section": "Desayunos",
+  "name": "Calentado Paisa",
+  "description": "",
+  "category": "other rice"
+ },
+ {
+  "venue_id": "42891",
+  "section": "CALIENTES",
+  "name": "POLLO KATSU",
+  "description": "Pollo en panko tempura acompañado de mayonesa japonesa y chilli dulce.",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "100120",
+  "section": "Helados",
+  "name": "Tarrina Un Litro",
+  "description": "Hasta 3 sabores",
+  "category": "ice cream"
+ },
+ {
+  "venue_id": "72165",
+  "section": "Platos",
+  "name": "Durum Kebab Ternera",
+  "description": "",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "32421",
+  "section": "Entrantes",
+  "name": "Hot Cheddar Bites",
+  "description": "Para los que buscan un toque picante en cada bocado. Crujientes Bites rellenos de cremosa salsa cheddar y trocitos de jalapeño.",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "59237",
+  "section": "Nigiri",
+  "name": "Nigiri Salmón, 4 Piezas",
+  "description": "",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "60167",
+  "section": "Entrantes👌​",
+  "name": "Anillos de cheddar",
+  "description": "No dudarás en decir \"sí quiero\" con nuestros crujientes aritos de queso fundido cheddar.",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "3444",
+  "section": "Platos Biryani",
+  "name": "Mushroom Rice",
+  "description": "Arròs basmati de la casa amb xampinyons i espècies tradicionals\n\nArroz basmati con champiñones y especias tradicionales\n\nBasmati rice with mushrooms & tradicional spices",
+  "category": "other rice"
+ },
+ {
+  "venue_id": "54815",
+  "section": "Primeros Platos",
+  "name": "Ensalada Wakame",
+  "description": "Algas",
+  "category": "salads"
+ },
+ {
+  "venue_id": "2099",
+  "section": "Menú",
+  "name": "Menú 3",
+  "description": "3 dürüm \n\nPuedes elegir la proteína entre: pollo, ternera o mixto\n\nAcompañado con patatas y una Coca-Cola 2L",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "69162",
+  "section": "Biryani Auténtico",
+  "name": "Pollo Tikka",
+  "description": "Contiene mostaza, frutos de cáscara y lácteos",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "79168",
+  "section": "Menús Pollos Asados",
+  "name": "1/2 Pollo Asado +Patatas Asadas + Allioli",
+  "description": "1/2 pollo asado, patatas asadas y 1 allioli\n\nPollo macerado con sal, pimienta, orégano y especies\n\nPatatas precocidas y asadas",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "38638",
+  "section": "Arroz & Fideos",
+  "name": "8. Fideos de Arroz",
+  "description": "",
+  "category": "noodles"
+ },
+ {
+  "venue_id": "101934",
+  "section": "Tapas Caseras",
+  "name": "Tiras de pollo",
+  "description": "Chicken strips\nlanières de poulet\nhühnchenstreifen.",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "36590",
+  "section": "Para Picar",
+  "name": "Ensalada Coronel",
+  "description": "Lechuga iceberg + Tomate + Maiz + Aceite y vinagre.",
+  "category": "salads"
+ },
+ {
+  "venue_id": "84636",
+  "section": "Durum",
+  "name": "Durum XXL solo carne",
+  "description": "Solo carne , mixto , pollo",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "94100",
+  "section": "Chicken Karahi",
+  "name": "Chicken Tikka Masala",
+  "description": "",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "38638",
+  "section": "Entrantes",
+  "name": "6. Sopa de Miso",
+  "description": "",
+  "category": "vegetable soups and creams"
+ },
+ {
+  "venue_id": "47144",
+  "section": "Plats Principals",
+  "name": "Hamburguesa de Pollo",
+  "description": "Lechuga, tomate, cebolla, queso y patatas fritas",
+  "category": "burger"
+ },
+ {
+  "venue_id": "206144",
+  "section": "Taco",
+  "name": "Taco de salmón",
+  "description": "",
+  "category": "taco"
+ },
+ {
+  "venue_id": "80460",
+  "section": "Helados",
+  "name": "Helado de Mango y Maracuyá",
+  "description": "Mango i maracuja",
+  "category": "ice cream"
+ },
+ {
+  "venue_id": "47901",
+  "section": "Tapas",
+  "name": "Gambas Rebozadas, 6 Unidades",
+  "description": "",
+  "category": "prawn"
+ },
+ {
+  "venue_id": "50364",
+  "section": "Pastas, Pizzas y Torradas",
+  "name": "Lasaña de carne",
+  "description": "De carne",
+  "category": "lasagna"
+ },
+ {
+  "venue_id": "4207",
+  "section": "Pizzas",
+  "name": "Pizza 4 Quesos",
+  "description": "4 quesos especiales",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "48961",
+  "section": "Bebidas",
+  "name": "Jarritos",
+  "description": "Elige tu sabor favorito entre limón, mango, guayaba, mandarina, piña o toronja",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "90021",
+  "section": "Cold Press Juices",
+  "name": "Combo 3 Juices",
+  "description": "Get 3 juices (Red Crush, Hardcore greens, Sunrise Juice) at a special price!",
+  "category": "juice"
+ },
+ {
+  "venue_id": "40197",
+  "section": "Ofertas",
+  "name": "4 Unidades Pollo Frito, Patatas y 2 Coca Cola, Lata",
+  "description": "",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "104392",
+  "section": "Sashimi",
+  "name": "Sashimi Salmón (6pz.)",
+  "description": "Thinly sliced fresh salmon, a delicate offering from our sashimi selection",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "52755",
+  "section": "Helados",
+  "name": "Helado, 2.5L",
+  "description": "Sólo 1 sabor",
+  "category": "ice cream"
+ },
+ {
+  "venue_id": "80720",
+  "section": "Bebidas / Drinks",
+  "name": "Agua, 50cl",
+  "description": "",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "59908",
+  "section": "Platos Principales",
+  "name": "Fish curry",
+  "description": "Trozos de pescado sin espinas, en salsa de curry",
+  "category": "generic fish"
+ },
+ {
+  "venue_id": "23830",
+  "section": "Bebidas / Drinks",
+  "name": "Coca-Cola Original",
+  "description": "",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "78526",
+  "section": "Tandoori Dishes",
+  "name": "Chicken Tikka",
+  "description": "Trozos de pechuga de pollo\nChicken breast pieces",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "8936",
+  "section": "Cubatas",
+  "name": "Ginebra Seagram’s",
+  "description": "",
+  "category": "other espirituosas"
+ },
+ {
+  "venue_id": "81433",
+  "section": "Makis",
+  "name": "52. Maki Tempura Salmón, 8 Unidades",
+  "description": "",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "72443",
+  "section": "Desde el Puesto de Street Hawkers",
+  "name": "Pav Bhaji",
+  "description": "A popular Maharashtrian street food where bread buns are served with mashed veggies cooked with specially blended spices and topped with dollop of butter.\nUna popular comida callejera de Maharashtra.\nBollos de pan con verduras cocinadas en una mezcla de especias y una cucharadita de mantequilla.",
+  "category": "other vegetables"
+ },
+ {
+  "venue_id": "73406",
+  "section": "Cervezas",
+  "name": "Cerveza Pacífico Clara, 35.5cl",
+  "description": "",
+  "category": "beer"
+ },
+ {
+  "venue_id": "22601",
+  "section": "Bebidas",
+  "name": "Fanta Naranja, 1 L",
+  "description": "",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "80460",
+  "section": "Uramakis, 8 Unidades",
+  "name": "Uramaki Hamachi Especial",
+  "description": "Relleno de salmón, alga deshidratada, cebolla frita, cebollino, envuelto en hamachi (pez limon) con salsa teriyaki\nFarcit de salmó, alga deshidratada, ceba fregida, cibulet, embolicat en hamachi amb salsa teriyaki\nContiene gluten y pescado",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "67829",
+  "section": "Hog Dog, Pollo",
+  "name": "Classic Hot Dog",
+  "description": "Cogollos de Tudela, cebolla frita, kétchup y mostaza",
+  "category": "hot dog"
+ },
+ {
+  "venue_id": "18168",
+  "section": "Pizzas, 40cm",
+  "name": "Pizza Jamón, 40cm",
+  "description": "Jamón york",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "101468",
+  "section": "Platos Tandoori O Barbacoa",
+  "name": "Lahore Delhi Special Barbecue",
+  "description": "Muslo de pullo, seekh kebab, pollo tikka, cordero tikka, chang, chapal kebab, arroz especial.\nChicken thigh, seekh kebab, chicken tikka, lamb tikka, chang, chapal kebab, special rice.\nCuisse de poulet, seekh kebab poulet tikka, agneau tikka, chanp, chapal kebab, riz special.",
+  "category": "generic meats"
+ },
+ {
+  "venue_id": "64148",
+  "section": "Nan, Roti y Paratha",
+  "name": "Paratha",
+  "description": "",
+  "category": "bread"
+ },
+ {
+  "venue_id": "75960",
+  "section": "Americanos",
+  "name": "La Clásica, 200gr",
+  "description": "Para los clásicos de la carne, los románticos y los que saben. Acompañada de papas naturales y nuestra salsa barbacoa al bourbon",
+  "category": "burger"
+ },
+ {
+  "venue_id": "62081",
+  "section": "Frappuccino®",
+  "name": "Chai Tea Cream Frappuccino®",
+  "description": "Base de crema chai tea con leche batido con hielo y recubierto con nata montada",
+  "category": "tea"
+ },
+ {
+  "venue_id": "92528",
+  "section": "Pizzas Gourmet",
+  "name": "Pizza Parmigiana, DOP",
+  "description": "Base de tomate san marzano con berenjenas asadas, mozzarella, parmigiano reggiano rallado, albahaca y aceite de oliva",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "51877",
+  "section": "Bebidas Frías",
+  "name": "Fanta Limón",
+  "description": "",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "97448",
+  "section": "Guarniciones",
+  "name": "Tallarín Solo",
+  "description": "",
+  "category": "noodles"
+ },
+ {
+  "venue_id": "36068",
+  "section": "Uramaki",
+  "name": "Pollo Rebozado y Crema Cacahuete, 8 Unidades",
+  "description": "",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "29981",
+  "section": "Sabzian",
+  "name": "Mixed Vegetable",
+  "description": "Verdures variades amb espècies tradicionals\nVerduras variadas con especies tradicionales\nMixed vegetables cooked with traditional spices",
+  "category": "generic vegetables"
+ },
+ {
+  "venue_id": "79331",
+  "section": "Salsas/ sauces",
+  "name": "Salsa  Agridulce/ Sweet and Sour sauce",
+  "description": "",
+  "category": "sauces"
+ },
+ {
+  "venue_id": "30709",
+  "section": "Pescados",
+  "name": "Bhuna Prawn con Naan",
+  "description": "Gambas con cebolla, pimiento, salsa roja y chilis",
+  "category": "prawn"
+ },
+ {
+  "venue_id": "631",
+  "section": "Ensaladas y Sopas",
+  "name": "Misoshiru",
+  "description": "Sopa de Miso\n\nSopa de Miso\n\nMiso soup",
+  "category": "vegetable soups and creams"
+ },
+ {
+  "venue_id": "37128",
+  "section": "PARA PICAR Y RACIONES",
+  "name": "Palomitas de Pollo",
+  "description": "Acompañadas de mayonesa, 9 uds",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "25984",
+  "section": "Pizzas Familiares",
+  "name": "Pizza 4 Quesos, Familiar",
+  "description": "Salsa de tomate, mozzarella, 4 quesos especiales y orégano",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "68810",
+  "section": "Entrantes",
+  "name": "Fish Pakora",
+  "description": "",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "73638",
+  "section": "Platos Típicos del Perú",
+  "name": "Leche De Tigre 4 Estaciones",
+  "description": "Concentrado de ceviche, pescado con mariscos finamente cortados acompañado de chicharrón de pescado y calamares",
+  "category": "generic seafood"
+ },
+ {
+  "venue_id": "16980",
+  "section": "Pizzas Familiares 36cm",
+  "name": "Pizza Verdura, Familiar 36cm",
+  "description": "Mozzarella, salsa de tomate, champiñones, pimiento, cebolla, oliva y orégano",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "49344",
+  "section": "Ricos Tacos",
+  "name": "Vegetal, 3 Tacos",
+  "description": "Vegetales mixtos\nMix grilled veggies",
+  "category": "taco"
+ },
+ {
+  "venue_id": "72165",
+  "section": "Pizzas",
+  "name": "Pizza Champiñones",
+  "description": "Tomate, queso, champiñones, cebolla, olivas negras y orégano",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "9513",
+  "section": "Menús / Menus",
+  "name": "Alitas de Pollo, 5 Unidades con Enselada e patata",
+  "description": "",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "28224",
+  "section": "Postres🍰🍮",
+  "name": "Dulce De Coco Y Piña",
+  "description": "",
+  "category": "other sweets"
+ },
+ {
+  "venue_id": "104838",
+  "section": "Empanadas Normales",
+  "name": "Empanada de Bacon y Mozzarella",
+  "description": "Empanada de bacon y mozzarella con cebolla caramelizada.",
+  "category": "empanada"
+ },
+ {
+  "venue_id": "96716",
+  "section": "Para Compartir",
+  "name": "Mac & Cheese Oxtail Gravy",
+  "description": "Mac and cheese en salsa de rabo de toro",
+  "category": "pasta varieties"
+ },
+ {
+  "venue_id": "70091",
+  "section": "Bebidas Calientes",
+  "name": "Cortado",
+  "description": "Si el amargor natural del espresso te resulta demasiado intenso, prueba con un poquito de leche para endulzar su sabor",
+  "category": "coffee"
+ },
+ {
+  "venue_id": "84636",
+  "section": "Pizza 32cm",
+  "name": "Pizza Barbacoa 32cm",
+  "description": "Salsa de barbacoa,  maiz , pollo , queso",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "80460",
+  "section": "Mochis",
+  "name": "Mochi Turrón",
+  "description": "Torró\nContiene gluten",
+  "category": "other sweets"
+ },
+ {
+  "venue_id": "44426",
+  "section": "Entrantes",
+  "name": "Báhn Xèo",
+  "description": "Crêpe vietnamita",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "4732",
+  "section": "Salsitxes / Salchichas",
+  "name": "Krakoski",
+  "description": "Salsitxa de xoriço\nGrakoski: salchicha de chorizo",
+  "category": "pork"
+ },
+ {
+  "venue_id": "101934",
+  "section": "Tapas Caseras",
+  "name": "Pulpo a la gallega",
+  "description": "Galician octopus\npoulpe galicien\ngalizischer oktopus.",
+  "category": "octopus"
+ },
+ {
+  "venue_id": "95085",
+  "section": "Extras",
+  "name": "Salsa Verde, 60ml",
+  "description": "No picante",
+  "category": "sauces"
+ },
+ {
+  "venue_id": "94178",
+  "section": "Postres",
+  "name": "Brownie con Helado de Vainilla",
+  "description": "",
+  "category": "cakes"
+ },
+ {
+  "venue_id": "57303",
+  "section": "Entrantes",
+  "name": "Ceviche Clásico",
+  "description": "Contiene pescado, lácteos y apio \n\nDados de pescado marinados en leche de tigre. Acompañado de yuca, boniato, choclo y cancha",
+  "category": "generic fish"
+ },
+ {
+  "venue_id": "99431",
+  "section": "Platos Wok",
+  "name": "Langostinos Salsa de Ostras",
+  "description": "",
+  "category": "prawn"
+ },
+ {
+  "venue_id": "50816",
+  "section": "A la Plancha / Grilled",
+  "name": "Alitas de Pollo con Patatas",
+  "description": "Alitas de pollo a la brasa con ensalada, patatas y pan\nAletes de pollastre a la brasa amb amanida, patates i pa\nGrilled chicken wings with salad, french fries and bread",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "85313",
+  "section": "Postres",
+  "name": "Fresas con Nata",
+  "description": "Deliciosas fresas acompañadas de nata y helado",
+  "category": "fruit"
+ },
+ {
+  "venue_id": "95878",
+  "section": "Bebidas",
+  "name": "Zumo de Naranja Natural, 250ml",
+  "description": "",
+  "category": "juice"
+ },
+ {
+  "venue_id": "82678",
+  "section": "Arroz y Tallarines",
+  "name": "59. Gyuu Don",
+  "description": "Ternera con cebolla y tortilla",
+  "category": "other rice"
+ },
+ {
+  "venue_id": "89197",
+  "section": "Platos Vegetarianos / Vegetarian Dishes",
+  "name": "Palak Paneer",
+  "description": "Sabroso queso fresco en una delicada salsa de espinacas, condimentado con especias y un toque de crema \nTasty fresh cheese in a delicate spinach sauce, seasoned with spices and a touch of cream",
+  "category": "cheese"
+ },
+ {
+  "venue_id": "49520",
+  "section": "Postres Individuales",
+  "name": "Crocanti",
+  "description": "",
+  "category": "ice cream"
+ },
+ {
+  "venue_id": "62912",
+  "section": "Yerbas",
+  "name": "Pack 3 Uds Playadito 1kg Yerba mate Argentina (3346)",
+  "description": "Pack de 3 paquetes de 1 kilogramo de Playadito. Yerba mate argentina. Esta oferta tiene un máximo de 2 packs por compra.",
+  "category": "infusions"
+ },
+ {
+  "venue_id": "78972",
+  "section": "Para Picar",
+  "name": "Alitas de Pollo (4 Unidades)",
+  "description": "",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "205414",
+  "section": "Durum",
+  "name": "Durum al horno mixto",
+  "description": "",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "53004",
+  "section": "Vegetables",
+  "name": "Bhindi Masala",
+  "description": "Cocinados con garam masala, cebollas y tomates\n\nLady fingers cooked with garam masala, onions and tomatos",
+  "category": "other vegetables"
+ },
+ {
+  "venue_id": "63942",
+  "section": "Sashimis",
+  "name": "Sashimi Atún, 6 Unidades",
+  "description": "Pescado fileteado fino",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "81296",
+  "section": "Tapas",
+  "name": "Chorizo con Arepa",
+  "description": "",
+  "category": "arepa"
+ },
+ {
+  "venue_id": "78571",
+  "section": "Ensaladas",
+  "name": "Ensalada Búfala",
+  "description": "Tomate, aguacate, mozzarella de búfala al pesto",
+  "category": "salads"
+ },
+ {
+  "venue_id": "2305",
+  "section": "Pizzas Especiales",
+  "name": "Pizza Trevisana",
+  "description": "Tomate, mozzarella, jamon dulce, queso brie, esparragos verdes",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "38742",
+  "section": "Menú infantil",
+  "name": "Chicken Burger Kids",
+  "description": "Delicioso pollo crujiente y kétchup",
+  "category": "burger"
+ },
+ {
+  "venue_id": "84838",
+  "section": "Basico Pizzas",
+  "name": "Pizza Regina",
+  "description": "Salsa Tomate, Jamón Dulce, Champiñones y Mozzarella.",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "90588",
+  "section": "Desayunos con Carne",
+  "name": "Bistec con Arroz y Huevo",
+  "description": "",
+  "category": "beef"
+ },
+ {
+  "venue_id": "40212",
+  "section": "Uramaki",
+  "name": "Ebi Avocado Tobiko Uramaki",
+  "description": "Uramaki de langostino, aguacate y huevas de pez volador",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "85494",
+  "section": "Paellas Para 2 Personas",
+  "name": "Paella Mixta de Gambas y Pollo para 2 Personas",
+  "description": "Hecha al momento con: Arroz Bomba, sofrito de verduras con tomate, pimiento rojo y verde, cebolla y ajo, gambas y alitas de pollo ricas en vitaminas, todo cocinado a fuego lento con un caldo de pescado.\n\nNuestra Paella es casera, preparada al momento con productos del día Y su tiempo de cocción es de 25 minutos.",
+  "category": "paella"
+ },
+ {
+  "venue_id": "12310",
+  "section": "Pizzas",
+  "name": "Pizza Pollo y Pepperoni",
+  "description": "Salsa de tomate, queso, pollo, pepperoni, orégano",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "848",
+  "section": "Ofertas Pizzas Medianas",
+  "name": "Cabra",
+  "description": "Queso de cabra, doble de queso, nueces california, miel",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "13950",
+  "section": "Nigiri",
+  "name": "Nigiri Pez Mantequilla Asado",
+  "description": "",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "45708",
+  "section": "Cervezas y Vinos",
+  "name": "Botella Pink Moscato",
+  "description": "Botella Pink Moscato",
+  "category": "dulces"
+ },
+ {
+  "venue_id": "63038",
+  "section": "Bebidas Alcoholicas / Alcoholic Drinks",
+  "name": "Jagermeister, 1L",
+  "description": "",
+  "category": "other espirituosas"
+ },
+ {
+  "venue_id": "59500",
+  "section": "Pollo Curry / Chicken Curry",
+  "name": "Chicken Curry",
+  "description": "Curry clásico con cebolla y especias\nClassical curry with onion and spices",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "101132",
+  "section": "Tapas",
+  "name": "Falafel Vegetal - 4 unidades",
+  "description": "",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "50375",
+  "section": "Platos Principales",
+  "name": "Reviolis Frescos",
+  "description": "Rellenos de alcachofa con crema de jamón Ibérico de bellota",
+  "category": "pasta varieties"
+ },
+ {
+  "venue_id": "85561",
+  "section": "Pizza",
+  "name": "Pizza Napolitana",
+  "description": "Mozzarella, tomate, anchoas y orégano",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "85947",
+  "section": "Bocadillos Frios",
+  "name": "Sandwich Vegetal",
+  "description": "Lechuga, tomate, espárragos, huevo duro y mayonesa",
+  "category": "sandwich"
+ },
+ {
+  "venue_id": "75078",
+  "section": "Fritas",
+  "name": "Pan de Ajo, 6 Unidades",
+  "description": "",
+  "category": "bread"
+ },
+ {
+  "venue_id": "53757",
+  "section": "Naans y Roti",
+  "name": "Makhani Naan",
+  "description": "Pan casero de india con mantequilla cocinado al momento al Tandoor\nContiene gluten y productos lácteos",
+  "category": "bread"
+ },
+ {
+  "venue_id": "78423",
+  "section": "Extras",
+  "name": "Extra Leche de coco",
+  "description": "",
+  "category": "milk"
+ },
+ {
+  "venue_id": "89826",
+  "section": "Cervezas",
+  "name": "Estrella Galicia 0.0 Tostada",
+  "description": "",
+  "category": "beer"
+ },
+ {
+  "venue_id": "95878",
+  "section": "Bebidas",
+  "name": "Café Americano",
+  "description": "",
+  "category": "coffee"
+ },
+ {
+  "venue_id": "98630",
+  "section": "Tes",
+  "name": "Chai Latte",
+  "description": "Una bebida cálida y aromática a base de té negro infusionado con una mezcla de especias como canela, jengibre, clavo y cardamomo, combinada con leche cremosa y un toque de dulzor.",
+  "category": "tea"
+ },
+ {
+  "venue_id": "13090",
+  "section": "Bebidas",
+  "name": "Agua 0.50L",
+  "description": "",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "47973",
+  "section": "Vinos Tintos",
+  "name": "Vino Tinto Sumarroca Penedes",
+  "description": "",
+  "category": "tintos"
+ },
+ {
+  "venue_id": "15937",
+  "section": "Sopas Completas al Estilo Chino Tres Delicias",
+  "name": "Sopa de Udon en Caldo de Pollo",
+  "description": "Udon hecha en caldo pollo con col china,tortilla de huevo,setas,verduras variadas,tiras de pollo y ternera,gambas peladas",
+  "category": "noodles"
+ },
+ {
+  "venue_id": "102725",
+  "section": "Tapas",
+  "name": "Alitas de Pollo, 6 Unidades",
+  "description": "Con patatas",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "51114",
+  "section": "Tenedor y Cuchillo",
+  "name": "Chuletón de Sidería Maduración 35 días a la Brasa de Encina, 1000gr",
+  "description": "",
+  "category": "beef"
+ },
+ {
+  "venue_id": "47901",
+  "section": "Bebidas",
+  "name": "Aquarius Limón, Lata",
+  "description": "",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "47901",
+  "section": "Hamburguesas",
+  "name": "Hamburguesa Ternera y Bacon",
+  "description": "",
+  "category": "burger"
+ },
+ {
+  "venue_id": "41318",
+  "section": "Menús Colectivos",
+  "name": "Menú para 5 Personas",
+  "description": "Ensalada china, 5 rollos de primavera, wan tun frito, 2 arroz tres delicias, ternera con salsa de ostras, cerdo agridulce, langostinos fritos y familia feliz",
+  "category": null
+ },
+ {
+  "venue_id": "50749",
+  "section": "Zumos y Kombuchas",
+  "name": "Tropical Dream",
+  "description": "Piña, coco, banana y manzana",
+  "category": "juice"
+ },
+ {
+  "venue_id": "22052",
+  "section": "Vinos Blancos",
+  "name": "Espelt Mareny Blanco",
+  "description": "",
+  "category": "blancos"
+ },
+ {
+  "venue_id": "86968",
+  "section": "Uramaki Especial",
+  "name": "Cristal Salmón, 8 Unidades",
+  "description": "Papel de arroz, lechuga y salmón queso",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "39345",
+  "section": "Sopas de Tallarines / Noodle Soups",
+  "name": "Tallarines con Salsa",
+  "description": "Puedes añadir extras pulsando \"Editar extras\"",
+  "category": "noodles"
+ },
+ {
+  "venue_id": "64680",
+  "section": "Tapas",
+  "name": "Triangulos de queso brie",
+  "description": "Crujiente rebozado de queso con mermelada de fresa",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "99496",
+  "section": "Refrescos",
+  "name": "Pepsi Copy",
+  "description": "(250ml)",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "37128",
+  "section": "MONTYGOURMET",
+  "name": "95- Pintxo Donostiarra y huevo hilado",
+  "description": "",
+  "category": "pinchos"
+ },
+ {
+  "venue_id": "29695",
+  "section": "Salsas ✨",
+  "name": "Salsa al Pesto",
+  "description": "Con albahaca",
+  "category": "sauces"
+ },
+ {
+  "venue_id": "17254",
+  "section": "Desayunos",
+  "name": "Tostada de aguacate, huevo revuelto y paleta ibérica",
+  "description": "Hogaza de pan de cereales y semillas con aguacate, huevo revuelto, paleta ibérica crujiente, tomate seco y aceite de oliva virgen extra.",
+  "category": "toasts"
+ },
+ {
+  "venue_id": "77650",
+  "section": "Postres / Dessert",
+  "name": "Ras Malai",
+  "description": "",
+  "category": "other sweets"
+ },
+ {
+  "venue_id": "18168",
+  "section": "Ensaladas",
+  "name": "Ensalada César",
+  "description": "Mezcla de lechugas, pollo, jamón york, emmental y salsa césar",
+  "category": "salads"
+ },
+ {
+  "venue_id": "2598",
+  "section": "Arroces y Tallarines",
+  "name": "Fideo Udon",
+  "description": "",
+  "category": "noodles"
+ },
+ {
+  "venue_id": "95695",
+  "section": "Tabletas Decorada",
+  "name": "Tableta Kikos y Chocolate, 130g",
+  "description": "",
+  "category": "chocolate"
+ },
+ {
+  "venue_id": "95043",
+  "section": "Entrantes & Tapas",
+  "name": "Pulpo a la Plancha",
+  "description": "Pop a la planxa \nGrilled octopus \nPoulpe grillée",
+  "category": "octopus"
+ },
+ {
+  "venue_id": "66666",
+  "section": "Sushi Mixto",
+  "name": "Sushi Mixto",
+  "description": "Hosomaki 3 piezas, uramaki 4 piezas y nigiri 3 piezas",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "86745",
+  "section": "¡New!",
+  "name": "Classic",
+  "description": "Pan brioch, carne ternera 100g, queso cheddar, ketchup, mostaza, cebolla, pepinillo, lechuga.",
+  "category": "burger"
+ },
+ {
+  "venue_id": "29195",
+  "section": "Hamburguesas",
+  "name": "Hamburguesa de Pollo",
+  "description": "Lechuga, tomate, cebolla, queso, mayonesa, kétchup y pollo",
+  "category": "burger"
+ },
+ {
+  "venue_id": "8288",
+  "section": "Primeros",
+  "name": "Ceviche Mixto (Pescado y Mariscos)",
+  "description": "Pulpo, gambas, calamar marinado con limón, ají, cilantro, ajos. Acompañado con cebolla, boniato y maíz\nMaixture of octopus, shimp, squid drenched in lemon, chili pepper, coriander, garlic-Accompanied by onions, sweet potatoes and corm\nContiene apio, lácteos, pescado, crustáceos y moluscos",
+  "category": "generic seafood"
+ },
+ {
+  "venue_id": "30364",
+  "section": "Postres",
+  "name": "Mochi Natural Judía Rojo, 6u/caja",
+  "description": "",
+  "category": "other sweets"
+ },
+ {
+  "venue_id": "28895",
+  "section": "Entrantes",
+  "name": "Lumpias",
+  "description": "",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "97824",
+  "section": "Postes",
+  "name": "Soufflé de Pistacho",
+  "description": "",
+  "category": "other sweets"
+ },
+ {
+  "venue_id": "59404",
+  "section": "Sashimi",
+  "name": "Ceviche de Dorado - 6 piezas",
+  "description": "",
+  "category": "other fish"
+ },
+ {
+  "venue_id": "207248",
+  "section": "Bebidas",
+  "name": "Coca-Cola sabor original lata 330ml",
+  "description": "",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "27113",
+  "section": "Yoghurt Dishes",
+  "name": "Mixed Vegetable Yogurt",
+  "description": "Iogurt amb verdures i fines herbes\n\nYogur con verduras y finas hierbas\n\nYoghurt with vegetables and fine herbs",
+  "category": "yogurs"
+ },
+ {
+  "venue_id": "61237",
+  "section": "Gunkan & Tartar",
+  "name": "Chirashi de Salmón y Aguacate",
+  "description": "Arroz sushi envuelto de salmón, aguacate y sésamo",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "56295",
+  "section": "Entrantes / Starters",
+  "name": "Hummus con Carne",
+  "description": "Puré de garbanzos con salsa de sésamo y carne\nChickpea puree with sesame and meat sauce",
+  "category": "legumes"
+ },
+ {
+  "venue_id": "51413",
+  "section": "Pizzas",
+  "name": "Pizza Taleggio",
+  "description": "Taleggio, mozzarella, speck, parmesano, nueces y pera",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "73965",
+  "section": "Platos Criollos",
+  "name": "Yucas Fritas",
+  "description": "Yuca frita, bañadas en salsa de huancaína u ocopa (yucas, aceite, leche, queso, ajíes y galleta)",
+  "category": "fries"
+ },
+ {
+  "venue_id": "101132",
+  "section": "Hamburguesas",
+  "name": "02. Bacon Queso",
+  "description": "Queso y huevo frito.",
+  "category": "burger"
+ },
+ {
+  "venue_id": "40768",
+  "section": "Extra Salsa",
+  "name": "Salsa de Soja sin Gluten",
+  "description": "",
+  "category": "sauces"
+ },
+ {
+  "venue_id": "103595",
+  "section": "Uramaki Rollo",
+  "name": "73 Frisky Rollo (8u)",
+  "description": "Enrollo de langostino rebozado cubierto con salmón y foie flameado",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "104786",
+  "section": "Bocadillos",
+  "name": "102. Bocadillo Playa",
+  "description": "Bacon, queso y huevo.",
+  "category": "sandwich"
+ },
+ {
+  "venue_id": "84636",
+  "section": "Tapas",
+  "name": "Patatas fritas con queso",
+  "description": "Patatas con queso grande",
+  "category": "fries"
+ },
+ {
+  "venue_id": "98427",
+  "section": "Batidos",
+  "name": "Batido Mango",
+  "description": "",
+  "category": "smoothie"
+ },
+ {
+  "venue_id": "86344",
+  "section": "Platos",
+  "name": "Ensalada Suami",
+  "description": "Lechuga, tomate, huevo duro, anchoas, atún, maíz, pimiento y espárragos",
+  "category": "salads"
+ },
+ {
+  "venue_id": "86315",
+  "section": "Hamburguesas",
+  "name": "Hamburguesa Pollo",
+  "description": "Pechuga de pollo empanada, cheddar, cebolla caramelizada y huevo duro",
+  "category": "burger"
+ },
+ {
+  "venue_id": "205823",
+  "section": "Pizzas, 30cm",
+  "name": "Pizza Carnívora (30cm)",
+  "description": "Tomate, mozzarella, pollo, pavo, ternera picada y orégano",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "85965",
+  "section": "Bebidas",
+  "name": "Vino Blanco Galvan Godello, 750Ml",
+  "description": "",
+  "category": "blancos"
+ },
+ {
+  "venue_id": "77715",
+  "section": "Dürüm",
+  "name": "Rollo Durum Falafel",
+  "description": "Falafel (5 uds.), ensalada y salsas",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "73352",
+  "section": "Rice Bowls",
+  "name": "Gyudon",
+  "description": "Base de arroz al vapor con jugosa ternera, huevo, edamame y cebolla roja . Todo el sabor se completa con cebolleta china, sésamo y tu salsa favorita",
+  "category": "other rice"
+ },
+ {
+  "venue_id": "63773",
+  "section": "Kebabs Sin Menu",
+  "name": "Durum XXL",
+  "description": "",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "102007",
+  "section": "Para Picar",
+  "name": "Alitas de Pollo, 6 Unidades",
+  "description": "Sabrosas y perfectas para picar",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "96510",
+  "section": "Kids Menu",
+  "name": "Kids Menu",
+  "description": "Mini tacos o 4 nuggets con papas fritas y una bebida",
+  "category": "taco"
+ },
+ {
+  "venue_id": "104550",
+  "section": "Pizzas",
+  "name": "Capricciosa, 33cm",
+  "description": "Aceitunas alcachofas jamón dulce y champiñones",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "87031",
+  "section": "A L'ast",
+  "name": "1/4 Pollo a L’ast y Patatas",
+  "description": "Para muchos único, crujiente y jugoso pollo acompañando con patatas al caliu y alioli de la casa",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "85942",
+  "section": "Pizzas Artesanas",
+  "name": "Pizza 4 Estaciones",
+  "description": "Tomate, mozzarella, orégano, champiñones, jamón york, bacon y aceitunas",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "39999",
+  "section": "Nuestros Pokés",
+  "name": "Uh! Mami!  Poke",
+  "description": "Atún, salmón, aguacate,soja, edamame, mango, cebollino, crunchy wakame y salsa aloha mayo.",
+  "category": "poke"
+ },
+ {
+  "venue_id": "39345",
+  "section": "Entrantes / Starters",
+  "name": "Ensalada de Rábano",
+  "description": "",
+  "category": "salads"
+ },
+ {
+  "venue_id": "80720",
+  "section": "Acompañamientos / Accompaniments / Acompanyaments",
+  "name": "Lachha Parantha",
+  "description": "Pan de hojaldre con mantequilla\nRich flaky bread enriched with butter\nPa de pasta de full amb mantega",
+  "category": "bread"
+ },
+ {
+  "venue_id": "66735",
+  "section": "Bocadillos Frios y Calientes",
+  "name": "Croissant Queso y Jamón",
+  "description": "",
+  "category": "sandwich"
+ },
+ {
+  "venue_id": "72366",
+  "section": "Bebidas",
+  "name": "Zumo de naranja natural",
+  "description": "Zumo de naranja recién exprimido. 33cl",
+  "category": "juice"
+ },
+ {
+  "venue_id": "61926",
+  "section": "Zumos Cold Press",
+  "name": "Mixed Shot de Jengibre y Lima, 50 ml",
+  "description": "",
+  "category": "juice"
+ },
+ {
+  "venue_id": "101816",
+  "section": "Bebidas",
+  "name": "Mango Simón lata",
+  "description": "Zumo original",
+  "category": "juice"
+ },
+ {
+  "venue_id": "7512",
+  "section": "Entrantes",
+  "name": "Nuggets",
+  "description": "Personaliza tus nuggets a tu gusto",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "96761",
+  "section": "Cordero",
+  "name": "Mutton Tikka Masala",
+  "description": "Típico plato especial con salsa de la casa con nata",
+  "category": "lamb"
+ },
+ {
+  "venue_id": "38742",
+  "section": "McMenú®",
+  "name": "Triple Cheeseburger",
+  "description": "Cheeseburger con triple de carne, con kétchup, mostaza, cebolla, pepinillo y su delicioso queso Cheddar fundido",
+  "category": "burger"
+ },
+ {
+  "venue_id": "90450",
+  "section": "Promociones",
+  "name": "3 Empanadas + 1 Bebida Pepsi",
+  "description": "Menú de tres empanadas a elección y una bebida",
+  "category": "empanada"
+ },
+ {
+  "venue_id": "49423",
+  "section": "Hamburguesas",
+  "name": "Hamburguesa Americana",
+  "description": "Hamburguesa de 150 gr., queso, cebolla, huevo frito, jamón york,\nlechuga y tomate",
+  "category": "burger"
+ },
+ {
+  "venue_id": "32901",
+  "section": "Hamburguesas",
+  "name": "Hamburguesa de pollo con salsa barbacoa",
+  "description": "En pan de hamburguesa",
+  "category": "burger"
+ },
+ {
+  "venue_id": "90489",
+  "section": "Tandoori",
+  "name": "Chanp Grill, Ensalada y Patatas",
+  "description": "Costillas de cordero a la brasa \nCostelles de xai a la brasa \nGrilled lamb ribs",
+  "category": "lamb"
+ },
+ {
+  "venue_id": "70091",
+  "section": "Packs Experience",
+  "name": "Pack Winner",
+  "description": "2 salados, 2 dunkins y 2 refrescos",
+  "category": "pastries"
+ },
+ {
+  "venue_id": "101914",
+  "section": "🔥¡¡Tus Favoritos -30%!!🔥",
+  "name": "Cheeseburger",
+  "description": "Doble smash burger de vaca madurada de (180 g.), cheddar, pepinillo, cebolla y salsa Bykyny  montado en un bollo de pan de brioche",
+  "category": "burger"
+ },
+ {
+  "venue_id": "103256",
+  "section": "ENTRANTES",
+  "name": "MASALA PAPADUM",
+  "description": "¡Nuestro crujiente pan de lentejas viene cargado con una mezcla súper fresca de cebolla, tomate, cilantro, maíz dulce y esos fideos de garbanzo crujientes que tanto nos gustan (los famosos sev)!",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "3146",
+  "section": "Pollastre - Pollo - Chicken",
+  "name": "Chilly Chicken",
+  "description": "Pollastre trossejat amb ceba, pebrots, salsa de soja I Xile\n\nPollo troceado con cebolla, pimientos, salsa de soja y chile\n\nChicken breast with onions and peppers en a soya – chili sauce",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "92139",
+  "section": "Principal",
+  "name": "Metric burger con Queso Cheddar",
+  "description": "Burger de ternera en pan de brioche con cebolla, tomate, cheddar y nuestra salsa casera americana.",
+  "category": "burger"
+ },
+ {
+  "venue_id": "7497",
+  "section": "California 8 piezas",
+  "name": "California Gambes Tempura",
+  "description": "Gambas rebozada, aguacate y mayonesa japonesa\n\nTempura prawns",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "18697",
+  "section": "Tapes",
+  "name": "Nuggets de Pollo",
+  "description": "Crujientes Nuggets de Pollo",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "92568",
+  "section": "Cocktail",
+  "name": "Gin Tonic",
+  "description": "",
+  "category": "cocktails"
+ },
+ {
+  "venue_id": "7512",
+  "section": "Burgers",
+  "name": "Beyond Burger",
+  "description": "Pan de cereales, brotes tiernos, tomate, burger estilo carne, queso vegano, pico de gallo y salsa veganesa",
+  "category": "burger"
+ },
+ {
+  "venue_id": "75100",
+  "section": "Verduras",
+  "name": "Saag Paneer",
+  "description": "Queso fresco casero con una suave crema de espinacas",
+  "category": "cheese"
+ },
+ {
+  "venue_id": "95201",
+  "section": "Pizzas Especiales",
+  "name": "Pizza Especial Barbacoa",
+  "description": "Tomate, mozzarella, salchicha, champiñones y salsa barbacoa",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "7908",
+  "section": "California / Uramaki",
+  "name": "Salmón con Aguacate, 8 Unidades",
+  "description": "Salmon with avocado\n\nSalmó amb alvocat",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "66433",
+  "section": "HAMBURGESAS",
+  "name": "Burger Doble Veggy (100% vegetariano)",
+  "description": "Doble burger de  zanahoria con manzana  y lentejas con menta, mezclum de hojas, tomate seco, aguacate, salsa de setas en pan artesanal de semillas.",
+  "category": "burger"
+ },
+ {
+  "venue_id": "8520",
+  "section": "Menús",
+  "name": "Menú Plato Kebab Solo Carne y Bebida",
+  "description": "Plato con carne kebab + lata refresco 33 cl",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "94178",
+  "section": "Entrantes",
+  "name": "Pinchos de Pollo y Vegetales con Salsa, 4 Unidades",
+  "description": "Pinchos de pollo con pimiento verde y pimiento rojo a la plancha acompañados con salsa romescu",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "95540",
+  "section": "Pizzeta",
+  "name": "Pizzeta de la Casa",
+  "description": "Con salsa de tomate, mozzarella de búfala, jamón dulce, champiñones y queso de escama",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "3611",
+  "section": "Entrants",
+  "name": "Delícies de Formatge Suís, 6 Unitats",
+  "description": "Triangles de fotmatge suís arrebossat",
+  "category": "other entrees"
+ },
+ {
+  "venue_id": "98630",
+  "section": "Smoothies",
+  "name": "Smoothie Fresa y Plátano",
+  "description": "Zumo con fruta natural (Fresa y plátano) batido con zumo de manzana o leche a escoger.",
+  "category": "smoothie"
+ },
+ {
+  "venue_id": "41312",
+  "section": "Entrantes y Ensaladas",
+  "name": "Cóctel de Ensalada",
+  "description": "Enciam amb gambetes, palets de cranc i salsa rosa",
+  "category": "salads"
+ },
+ {
+  "venue_id": "87046",
+  "section": "Platos Combinados",
+  "name": "Combinado XIX Tawuk",
+  "description": "Hummus, mutabbal, fattoush, pinchos de pollo, falafel y patatas fritas",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "40768",
+  "section": "Nigiri y Gunkan",
+  "name": "Nigiri Anguila, 2 Piezas",
+  "description": "",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "59120",
+  "section": "Menús / Menus",
+  "name": "Menú 1: Dürüm",
+  "description": "Durum (pollo, ternera o mixto) + Patatas + Bebida",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "84838",
+  "section": "Pizzas Masa fina Y fresca",
+  "name": "Pizza Dulce Cabra",
+  "description": "Cebolla Caramelizada,Doble Queso De Cabra y Mozzarella Sin Salsa Tomate",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "2995",
+  "section": "Bebidas",
+  "name": "Tónica",
+  "description": "Lata",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "2124",
+  "section": "Arròs Basmati",
+  "name": "Veg Biryani",
+  "description": "Arròs amb verdures i fruits secs\nArroz con verduras y frutos secos\nRice with vegetables and dry fruits,raita",
+  "category": "other rice"
+ },
+ {
+  "venue_id": "32238",
+  "section": "Pizza 28cm",
+  "name": "Pizza Calzone Borde de Queso, 28cm",
+  "description": "Salsa de tomate, carne mixta, maíz, cebolla, pimiento verde y rojo, mozzarella y orégano",
+  "category": "calzone"
+ },
+ {
+  "venue_id": "100464",
+  "section": "Postres",
+  "name": "Eclair",
+  "description": "",
+  "category": "pastries"
+ },
+ {
+  "venue_id": "55520",
+  "section": "Bebidas",
+  "name": "Ginger Beer",
+  "description": "Refresco sabor a jengibre",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "100509",
+  "section": "Hamburguesas",
+  "name": "Hamburguesa de Ternera Doble",
+  "description": "Lechuga, tomate, cebolla y mayonesa",
+  "category": "burger"
+ },
+ {
+  "venue_id": "74324",
+  "section": "Entrantes Fríos",
+  "name": "Hummus Remolacha con Pan",
+  "description": "Remolacha con tahina\nRemolatxa amb tahina\nBeetroot with tahini",
+  "category": "legumes"
+ },
+ {
+  "venue_id": "13387",
+  "section": "Platos / Plats de Curry",
+  "name": "Lamb Curry",
+  "description": "Cordero con salsa de curry y especias tradicionales\nXai amb salsa de curri i espècies tradicionals \nLamb with curry sauce and traditional spices",
+  "category": "lamb"
+ },
+ {
+  "venue_id": "95878",
+  "section": "Tarros y Fruta",
+  "name": "1 Yogurt Parfait con Coulis Natural y Granola",
+  "description": "",
+  "category": "yogurs"
+ },
+ {
+  "venue_id": "71496",
+  "section": "Bocadillos en Pan de Coca Calientes",
+  "name": "Pechuga de Pollo con Queso",
+  "description": "",
+  "category": "sandwich"
+ },
+ {
+  "venue_id": "95057",
+  "section": "Las Recomendaciones del Saverio y la Rafi",
+  "name": "Pappardelle al Parmiggiano con Pera e Noci",
+  "description": "Tallarines gruesos de estilo pappardelle cocinado frescos dentro de nuestras ruedas de queso parmesano con pera y nueces caramelizadas\nContiene gluten, lactosa y huevo",
+  "category": "pasta varieties"
+ },
+ {
+  "venue_id": "76893",
+  "section": "Platos",
+  "name": "Naan Dürüm Mixto",
+  "description": "",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "72923",
+  "section": "Menú SUBs (30 cm)",
+  "name": "CM Albondigas 30",
+  "description": "Albóndigas de ternera y cerdo.",
+  "category": "sandwich"
+ },
+ {
+  "venue_id": "86925",
+  "section": "Principales",
+  "name": "Pescado a lo Macho",
+  "description": "",
+  "category": "generic fish"
+ },
+ {
+  "venue_id": "94178",
+  "section": "Entrantes",
+  "name": "Alitas Caseras Adobadas, 200gr",
+  "description": "Nuestras alitas caseras adobadas al estilo de la casa con nuestras salsas especiales de la casa",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "94394",
+  "section": "Entrantes",
+  "name": "Huevo rotos con jamón",
+  "description": "",
+  "category": "eggs"
+ },
+ {
+  "venue_id": "47310",
+  "section": "Pizza Especial Mediana",
+  "name": "Gorgonzola Tonnato 33",
+  "description": "Mozzarella, gorgonzola, atún, rúcula y nueces",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "23771",
+  "section": "Tapas",
+  "name": "Champiñones al Ajillo",
+  "description": "",
+  "category": "other vegetables"
+ },
+ {
+  "venue_id": "103994",
+  "section": "Combos",
+  "name": "Pack 3 Empanadas + Bebida",
+  "description": "El mejor pack individual, para días de trabajo.",
+  "category": "empanada"
+ },
+ {
+  "venue_id": "28455",
+  "section": "Bebidas",
+  "name": "Nestea Té Negro Limón Lata 330 m",
+  "description": "",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "43741",
+  "section": "Combinados",
+  "name": "Sushi and Friends, 40 Unidades",
+  "description": "Sushi and friends, 40 unitats / sushi and friends, 40 units\n16 uramaki, 6 maki, 6 hosomaki, 6 nigiri y 6 sashimi\nContiene sésamo, soja, huevos y pescado\nConté sesame, soja, ousi peix\nContains sesame, soy, eggs and fish",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "206677",
+  "section": "Pizzas",
+  "name": "Pizza Cuatro Quesos",
+  "description": "Salsa de tomate, mozzarella, 4 quesos y orégano\n\nElige el tamaño, 28cm, 32cm o 36cm",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "7171",
+  "section": "Pizzas Vegetarianas Medianas",
+  "name": "Pizza Vegetal, Mediana",
+  "description": "Tomate, queso, espinacas, aceitunas, pimiento, champiñones, cebolla",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "7619",
+  "section": "Para Empezar",
+  "name": "Nuggets de Pollo (6 Unidades)",
+  "description": "",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "78734",
+  "section": "Le Focacce",
+  "name": "Focaccia Emiliana",
+  "description": "Mozz, lonchas de mortadela y pistachos\nMozz, slices of mortadella and pistachios\nMozzarella, rodanxes de mortadel·la i festucs",
+  "category": "sandwich"
+ },
+ {
+  "venue_id": "96802",
+  "section": "Tacos pa' armar en casita",
+  "name": "Hijo de la Chingada, 5 unidades",
+  "description": "Taco de Pollo con Mole, 5 unidades. El tradicinal platillo con chocolate amargo.",
+  "category": "taco"
+ },
+ {
+  "venue_id": "7497",
+  "section": "Combos",
+  "name": "Combo 5, 24 Piezas",
+  "description": "California de gamba tempura 8uds, california de salmón 8 uds, California de tobikko salmón 8uds.",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "35362",
+  "section": "Platos Combinados",
+  "name": "Arroz con Ternera en Salsa Curry",
+  "description": "",
+  "category": "other rice"
+ },
+ {
+  "venue_id": "84636",
+  "section": "Naans",
+  "name": "Naan con queso",
+  "description": "",
+  "category": "bread"
+ },
+ {
+  "venue_id": "69855",
+  "section": "Tapas / Tapes",
+  "name": "Chocos a la Andaluza / Chocos a l'andalusa / Andalusian Cuttlefish",
+  "description": "",
+  "category": "cuttlefish"
+ },
+ {
+  "venue_id": "84615",
+  "section": "Wok",
+  "name": "Torikatsu",
+  "description": "Tiras de Pollo rebozado estilo japonés sobre una cama de arroz.",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "90188",
+  "section": "Risottos y Lasañas ☀️",
+  "name": "Parmigiana de Melanzane",
+  "description": "Milhojas de berejenas salteadas y luego pasadas por aceite, con bechamel y mozarella fresca \"Fior di latte\"",
+  "category": "other vegetables"
+ },
+ {
+  "venue_id": "46893",
+  "section": "Carnes",
+  "name": "Tiras de Pechuga Rebozada",
+  "description": "",
+  "category": "chicken"
+ },
+ {
+  "venue_id": "13090",
+  "section": "Pizzas Clásicas / Pizzes Clàsiques, 33cm",
+  "name": "Pizza Hawaiana",
+  "description": "Salsa de tomate, mozzarella, piña natural y jamón dulce",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "42891",
+  "section": "MAKIS CLASICOS",
+  "name": "MAKI SALMON (8 Pzas)",
+  "description": "",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "95797",
+  "section": "PACKS",
+  "name": "Pack innovador",
+  "description": "Incluye: Ben & Jerry's Cookie Dough 465ml + Ben & Jerry's Peaces Salted Caramel Brownie.",
+  "category": "ice cream"
+ },
+ {
+  "venue_id": "46747",
+  "section": "Entrantes",
+  "name": "Sincronizada",
+  "description": "Jamón york y queso  entre dos tortitas a la plancha.",
+  "category": "taco"
+ },
+ {
+  "venue_id": "68654",
+  "section": "Bollería Dulce",
+  "name": "Mini Croissants Mantequilla, Normal, 3 Unidades",
+  "description": "Sin nada",
+  "category": "pastries"
+ },
+ {
+  "venue_id": "100605",
+  "section": "Zumos de Fruta & Smoothies",
+  "name": "Zumo de Mango y Manzana",
+  "description": "Frutas y nada más, hechos al momentos y sin azúcar añadida\n\nEs depurativo",
+  "category": "juice"
+ },
+ {
+  "venue_id": "53214",
+  "section": "Carnes",
+  "name": "Cochinillo al Estilo de Segovia",
+  "description": "2 personas",
+  "category": "pork"
+ },
+ {
+  "venue_id": "32901",
+  "section": "Pizzas",
+  "name": "Pizza Jamón - 28cm Mediana",
+  "description": "Salsa de Tomate, Jamón York y Queso",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "16980",
+  "section": "Pizzas Pequeñas 24cm",
+  "name": "Pizza Barbacoa 1, Pequeña 24cm",
+  "description": "Salsa barbacoa, mozzarella, pollo, champiñones y orégano",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "13259",
+  "section": "Menús / Menus",
+  "name": "2 Pizzas 32cm, + Patatas Fritas + Refresco lata",
+  "description": "",
+  "category": "pizza"
+ },
+ {
+  "venue_id": "40222",
+  "section": "Carnes y Pescados",
+  "name": "Wafu",
+  "description": "Alérgenos: soja\nTernera a la plancha teppan con salsa casera",
+  "category": "beef"
+ },
+ {
+  "venue_id": "10535",
+  "section": "Menús",
+  "name": "Menú Salmón a la Plancha",
+  "description": "Con patatas, bebida y ensalada",
+  "category": "salmon"
+ },
+ {
+  "venue_id": "60876",
+  "section": "Refrescos Fríos",
+  "name": "Zumo de Tomate, 330ml",
+  "description": "",
+  "category": "juice"
+ },
+ {
+  "venue_id": "61237",
+  "section": "Maki Roll",
+  "name": "Maki de Gamba y Aguacate, 8 Piezas",
+  "description": "Relleno de aguacate y gamba, envuelto de alga nori",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "39089",
+  "section": "Dragón",
+  "name": "Rollo de atun spicy 8u",
+  "description": "Atun,aguacate,filamento de guidilla y salsa spicy especial",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "78423",
+  "section": "Vinos Tintos",
+  "name": "Vino Tinto Mineral Cara Nord",
+  "description": "Cariñena y garnacha D.O.Montsant",
+  "category": "tintos"
+ },
+ {
+  "venue_id": "60116",
+  "section": "Infusiones y Tés",
+  "name": "Infusión Rooibos",
+  "description": "Infusión de Rooibos",
+  "category": "infusions"
+ },
+ {
+  "venue_id": "70343",
+  "section": "Dulces",
+  "name": "Plum Cake",
+  "description": "Chocolate y plátano",
+  "category": "cakes"
+ },
+ {
+  "venue_id": "96809",
+  "section": "Las Milanesas",
+  "name": "Milanesa Bravísima",
+  "description": "Alioli de pimientos, chimichurri y salsa picante",
+  "category": "beef"
+ },
+ {
+  "venue_id": "58288",
+  "section": "Tapas",
+  "name": "Chashu Don",
+  "description": "Chashu, panceta de cerdo, con arroz, algas nori, repollo y huevo",
+  "category": "other rice"
+ },
+ {
+  "venue_id": "90851",
+  "section": "Doner Kebab",
+  "name": "Doner Falafel",
+  "description": "Falafel, ensalada mixta y salsas",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "6332",
+  "section": "Temaki",
+  "name": "Temaki Aguacate Gambas Tempura",
+  "description": "Temaki Aguacate Gambas Tempura\n\nAvocado Shrimp Tempura Temaki",
+  "category": "sushi"
+ },
+ {
+  "venue_id": "84237",
+  "section": "Bebidas",
+  "name": "Tonica Swcheweppes Original",
+  "description": "20ml",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "41488",
+  "section": "Sopa",
+  "name": "Sopa de Maíz con Carne de Cangrejo",
+  "description": "",
+  "category": "vegetable soups and creams"
+ },
+ {
+  "venue_id": "44128",
+  "section": "Ensaladas",
+  "name": "Yon o Sarada",
+  "description": "Ensalda de salmón crudo en salsa picante",
+  "category": "salads"
+ },
+ {
+  "venue_id": "35852",
+  "section": "Especialidad en Hamburguesas",
+  "name": "Especialidad Route 66",
+  "description": "200gr. de carne 100% ternera, queso cheddar, bacon, tomate, lechuga francesa, cebolla caramelizada, salsa barbacoa y mahonesa\nContiene lácteos",
+  "category": "burger"
+ },
+ {
+  "venue_id": "33821",
+  "section": "Postres",
+  "name": "Háagen Dasz Chocolate, 150ml",
+  "description": "",
+  "category": "ice cream"
+ },
+ {
+  "venue_id": "7516",
+  "section": "Specialita di Pasta e Paste Fresche",
+  "name": "Rigatoni Amatriciana",
+  "description": "Macarrones grandes con salsa tomate y bacón italiano",
+  "category": "pasta varieties"
+ },
+ {
+  "venue_id": "51907",
+  "section": "Postres",
+  "name": "Yogurt de Frambuesa del Pastoret",
+  "description": "",
+  "category": "yogurs"
+ },
+ {
+  "venue_id": "207146",
+  "section": "Guarniciones",
+  "name": "Cometas",
+  "description": "Patatas fritas caseras",
+  "category": "fries"
+ },
+ {
+  "venue_id": "82174",
+  "section": "Platos Hindúes",
+  "name": "Beef Karahi Jalfrezi",
+  "description": "",
+  "category": "beef"
+ },
+ {
+  "venue_id": "53457",
+  "section": "Salsas Venezolanas",
+  "name": "Salsa de guayaba (60ml).",
+  "description": "Salsa dulce a base de Guayaba, ideal para tus tequeños de queso.",
+  "category": "sauces"
+ },
+ {
+  "venue_id": "85186",
+  "section": "Brunch Pancakes and Greek Bowl",
+  "name": "Greek Power Bowl",
+  "description": "Un tazón lleno de frescura y energia, con yogurt griego cremoso como base, cubierto con una crujiente de muesli. Para darle un toque refrescante y vibrante, se añaden frutos rojos de temporada.",
+  "category": "yogurs"
+ },
+ {
+  "venue_id": "44321",
+  "section": "Tapas",
+  "name": "Racion Patatas Fritas",
+  "description": "¡Prueba nuestras patatas frescas y naturales sin aditivos!",
+  "category": "fries"
+ },
+ {
+  "venue_id": "86441",
+  "section": "Ensaladas 🥗",
+  "name": "Ensalada Burrata",
+  "description": "Queso Burrata, Rúcula, Parmesano y tomate cherry\nBurrata cheese, arugula, parmesan and cherry tomatoes\nFormatge burrata, ruca, parmesà i tomàquets cherry",
+  "category": "salads"
+ },
+ {
+  "venue_id": "90948",
+  "section": "Bebidas",
+  "name": "Agua con Gas",
+  "description": "San Pellegrino, botella de 500ml",
+  "category": "soft drinks"
+ },
+ {
+  "venue_id": "56782",
+  "section": "Platos Combinados",
+  "name": "Plato de Mixto",
+  "description": "Con ensalada y patatas",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "87757",
+  "section": "Entrantes",
+  "name": "Huevo Trufado con Jamón de Buey",
+  "description": "",
+  "category": "eggs"
+ },
+ {
+  "venue_id": "104080",
+  "section": "Menús / Menus",
+  "name": "Menú 5",
+  "description": "3 dürüm kebab + Patatas + Coca-Cola 2L",
+  "category": "kebab"
+ },
+ {
+  "venue_id": "847",
+  "section": "Vegano Plato",
+  "name": "Vegano Allu Gobhi",
+  "description": "Combinación de coliflor, patatas y guisantes con jengibre fresco picado, cocinado a fuego lento\n\nCombinació de coliflor, patates y pèsols amb gengibre fresc picat cuinat a foc lent",
+  "category": "other vegetables"
+ },
+ {
+  "venue_id": "61126",
+  "section": "Cervezas",
+  "name": "Cerveza con limón Moritz",
+  "description": "",
+  "category": "beer"
+ }
+]

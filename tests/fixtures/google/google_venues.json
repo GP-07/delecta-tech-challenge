@@ -1,0 +1,768 @@
+[
+ {
+  "name": "Cuorenostrum Barcelona",
+  "rawAddress": "Carrer del Consell de Cent, 487, Eixample, 08013 Barcelona, España",
+  "telephone": "+34 931 47 25 12",
+  "website": "https://cuorenostrumbarcelona.com/",
+  "rating": 4.9,
+  "euroScale": "10-20 €",
+  "description": null,
+  "timetable": {
+   "mon": [
+    [
+     "13:00",
+     "16:00"
+    ],
+    [
+     "19:30",
+     "23:30"
+    ]
+   ],
+   "tue": [
+    [
+     "13:00",
+     "16:00"
+    ],
+    [
+     "19:30",
+     "23:30"
+    ]
+   ],
+   "wed": [
+    [
+     "13:00",
+     "16:00"
+    ],
+    [
+     "19:30",
+     "23:30"
+    ]
+   ],
+   "thu": [
+    [
+     "13:00",
+     "16:00"
+    ],
+    [
+     "19:30",
+     "23:30"
+    ]
+   ],
+   "fri": [
+    [
+     "13:00",
+     "23:59"
+    ]
+   ],
+   "sat": [
+    [
+     "13:00",
+     "23:59"
+    ]
+   ],
+   "sun": [
+    [
+     "13:00",
+     "23:59"
+    ]
+   ]
+  },
+  "totalReviews": 2731,
+  "rating5": 2569,
+  "rating4": 122,
+  "rating3": 9,
+  "rating2": 4,
+  "rating1": 27,
+  "rushHoursJson": {},
+  "reservationUrlsJson": [
+   "https://www.cuorenostrumbarcelona.com/#reservas"
+  ],
+  "menuUrl": null,
+  "ownerClaimed": 1,
+  "locationDescription": null,
+  "addBusinessButton": 0,
+  "hasCartaTab": 1,
+  "latitude": 41.3997805,
+  "longitude": 2.1770978999999997,
+  "closedAt": null,
+  "googleMapsUrl": "https://maps.google.es/?cid=2331681406251020461",
+  "googlePlaceId": "ChIJmXen2J2jpBIRrbD5nOLLWyA",
+  "extraTimetablesJson": [],
+  "deliveryUrlsJson": null,
+  "temporalClosedAt": null,
+  "tagsRestaurantGoogle": [
+   {
+    "name": "pizzería",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "restaurante italiano",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "acceso para sillas de ruedas",
+    "type": "accessibility"
+   },
+   {
+    "name": "asientos adaptados sillas de ruedas",
+    "type": "accessibility"
+   },
+   {
+    "name": "aparcamiento adaptado para sillas de ruedas",
+    "type": "accessibility"
+   },
+   {
+    "name": "terraza",
+    "type": "service_options"
+   },
+   {
+    "name": "entrega sin contacto",
+    "type": "service_options"
+   },
+   {
+    "name": "a domicilio",
+    "type": "service_options"
+   },
+   {
+    "name": "para llevar",
+    "type": "service_options"
+   },
+   {
+    "name": "comer allí",
+    "type": "service_options"
+   },
+   {
+    "name": "buen café",
+    "type": "highlights"
+   },
+   {
+    "name": "buenos postres",
+    "type": "highlights"
+   },
+   {
+    "name": "comida",
+    "type": "popular_for"
+   },
+   {
+    "name": "cena",
+    "type": "popular_for"
+   },
+   {
+    "name": "cenar solo",
+    "type": "popular_for"
+   },
+   {
+    "name": "bebidas alcohólicas",
+    "type": "offerings"
+   },
+   {
+    "name": "café",
+    "type": "offerings"
+   },
+   {
+    "name": "cerveza",
+    "type": "offerings"
+   },
+   {
+    "name": "cócteles",
+    "type": "offerings"
+   },
+   {
+    "name": "comida vegetariana",
+    "type": "offerings"
+   },
+   {
+    "name": "licores fuertes",
+    "type": "offerings"
+   },
+   {
+    "name": "vino",
+    "type": "offerings"
+   },
+   {
+    "name": "comida",
+    "type": "dining_options"
+   },
+   {
+    "name": "cena",
+    "type": "dining_options"
+   },
+   {
+    "name": "postres",
+    "type": "dining_options"
+   },
+   {
+    "name": "sitio para sentarse",
+    "type": "dining_options"
+   },
+   {
+    "name": "servicio en mesa",
+    "type": "dining_options"
+   },
+   {
+    "name": "aseos",
+    "type": "amenities"
+   },
+   {
+    "name": "acogedor",
+    "type": "atmosphere"
+   },
+   {
+    "name": "de moda",
+    "type": "atmosphere"
+   },
+   {
+    "name": "informal",
+    "type": "atmosphere"
+   },
+   {
+    "name": "tranquilo",
+    "type": "atmosphere"
+   },
+   {
+    "name": "turistas",
+    "type": "crowd"
+   },
+   {
+    "name": "se recomienda hacer una reserva para cenar",
+    "type": "planning"
+   },
+   {
+    "name": "se aceptan reservas",
+    "type": "planning"
+   },
+   {
+    "name": "pagos con móvil vía nfc",
+    "type": "payments"
+   },
+   {
+    "name": "tarjetas de crédito",
+    "type": "payments"
+   },
+   {
+    "name": "tarjetas de débito",
+    "type": "payments"
+   },
+   {
+    "name": "adecuado para niños",
+    "type": "children"
+   },
+   {
+    "name": "aparcamiento de pago",
+    "type": "parking"
+   },
+   {
+    "name": "aparcamiento en la calle de pago",
+    "type": "parking"
+   },
+   {
+    "name": "aparcamiento en la calle gratuito",
+    "type": "parking"
+   },
+   {
+    "name": "se admiten perros en el exterior",
+    "type": "pets"
+   }
+  ],
+  "googleTypeTags": [
+   "pizzeria",
+   "restaurante italiano"
+  ]
+ },
+ {
+  "name": "Tiflis Restaurant",
+  "rawAddress": "Carrer del Consell de Cent, 487, Eixample, 08013 Barcelona",
+  "telephone": "631489757",
+  "website": "https://www.tiflisbarcelona.com/",
+  "rating": 4.1,
+  "euroScale": null,
+  "description": null,
+  "timetable": null,
+  "totalReviews": 0,
+  "rating5": 0,
+  "rating4": 0,
+  "rating3": 0,
+  "rating2": 0,
+  "rating1": 0,
+  "rushHoursJson": {},
+  "reservationUrlsJson": null,
+  "menuUrl": null,
+  "ownerClaimed": 1,
+  "locationDescription": null,
+  "addBusinessButton": 0,
+  "hasCartaTab": 0,
+  "latitude": 41.3997805,
+  "longitude": 2.1770978999999997,
+  "closedAt": "2026-04-27 17:55",
+  "googleMapsUrl": "https://maps.google.es/?cid=3659334972285990126",
+  "googlePlaceId": "ChIJqTJI7ESjpBIR7jRF8cSRyDI",
+  "extraTimetablesJson": [],
+  "deliveryUrlsJson": null,
+  "temporalClosedAt": null,
+  "tagsRestaurantGoogle": [
+   {
+    "name": "restaurante georgiano",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "bar",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "cafetería",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "restaurante",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "vinoteca",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "acceso para sillas de ruedas",
+    "type": "accessibility"
+   },
+   {
+    "name": "se identifica como de propietarias mujeres",
+    "type": "from_the_business"
+   },
+   {
+    "name": "terraza",
+    "type": "service_options"
+   },
+   {
+    "name": "entrega sin contacto",
+    "type": "service_options"
+   },
+   {
+    "name": "a domicilio",
+    "type": "service_options"
+   },
+   {
+    "name": "para llevar",
+    "type": "service_options"
+   },
+   {
+    "name": "comer allí",
+    "type": "service_options"
+   },
+   {
+    "name": "música en directo",
+    "type": "highlights"
+   },
+   {
+    "name": "bebidas alcohólicas",
+    "type": "offerings"
+   },
+   {
+    "name": "café",
+    "type": "offerings"
+   },
+   {
+    "name": "cerveza",
+    "type": "offerings"
+   },
+   {
+    "name": "cócteles",
+    "type": "offerings"
+   },
+   {
+    "name": "comida vegetariana",
+    "type": "offerings"
+   },
+   {
+    "name": "licores fuertes",
+    "type": "offerings"
+   },
+   {
+    "name": "se sirve comida hasta tarde",
+    "type": "offerings"
+   },
+   {
+    "name": "se sirven ensaladas",
+    "type": "offerings"
+   },
+   {
+    "name": "vino",
+    "type": "offerings"
+   },
+   {
+    "name": "desayuno",
+    "type": "dining_options"
+   },
+   {
+    "name": "comida",
+    "type": "dining_options"
+   },
+   {
+    "name": "cena",
+    "type": "dining_options"
+   },
+   {
+    "name": "cátering",
+    "type": "dining_options"
+   },
+   {
+    "name": "postres",
+    "type": "dining_options"
+   },
+   {
+    "name": "sitio para sentarse",
+    "type": "dining_options"
+   },
+   {
+    "name": "aseos",
+    "type": "amenities"
+   },
+   {
+    "name": "wi-fi",
+    "type": "amenities"
+   },
+   {
+    "name": "wi-fi gratis",
+    "type": "amenities"
+   },
+   {
+    "name": "ideal para familias",
+    "type": "crowd"
+   },
+   {
+    "name": "se aceptan reservas",
+    "type": "planning"
+   },
+   {
+    "name": "pagos con móvil vía nfc",
+    "type": "payments"
+   },
+   {
+    "name": "tarjetas de débito",
+    "type": "payments"
+   },
+   {
+    "name": "tarjetas de crédito",
+    "type": "payments"
+   },
+   {
+    "name": "adecuado para niños",
+    "type": "children"
+   }
+  ],
+  "googleTypeTags": [
+   "restaurante georgiano",
+   "bar",
+   "cafeteria",
+   "restaurante",
+   "vinoteca"
+  ]
+ },
+ {
+  "name": "A Toda Leña",
+  "rawAddress": "Carrer del Consell de Cent, 487, Eixample, 08013 Barcelona, España",
+  "telephone": "+34 930 13 82 32",
+  "website": null,
+  "rating": 4.0,
+  "euroScale": null,
+  "description": null,
+  "timetable": {
+   "mon": [],
+   "tue": [],
+   "wed": [],
+   "thu": [],
+   "fri": [],
+   "sat": [],
+   "sun": []
+  },
+  "totalReviews": 39,
+  "rating5": 24,
+  "rating4": 7,
+  "rating3": 0,
+  "rating2": 1,
+  "rating1": 7,
+  "rushHoursJson": {},
+  "reservationUrlsJson": null,
+  "menuUrl": null,
+  "ownerClaimed": 0,
+  "locationDescription": null,
+  "addBusinessButton": 0,
+  "hasCartaTab": 0,
+  "latitude": 41.3997805,
+  "longitude": 2.1770978999999997,
+  "closedAt": "2026-04-27 17:21",
+  "googleMapsUrl": "https://maps.google.es/?cid=16918045573550526890",
+  "googlePlaceId": "ChIJaQU4xg-jpBIRqlFZQdD4yOo",
+  "extraTimetablesJson": [],
+  "deliveryUrlsJson": null,
+  "temporalClosedAt": null,
+  "tagsRestaurantGoogle": [
+   {
+    "name": "restaurante",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "comer allí",
+    "type": "service_options"
+   },
+   {
+    "name": "bebidas alcohólicas",
+    "type": "offerings"
+   },
+   {
+    "name": "café",
+    "type": "offerings"
+   },
+   {
+    "name": "cerveza",
+    "type": "offerings"
+   },
+   {
+    "name": "comida halal",
+    "type": "offerings"
+   },
+   {
+    "name": "comida vegetariana",
+    "type": "offerings"
+   },
+   {
+    "name": "se sirven ensaladas",
+    "type": "offerings"
+   },
+   {
+    "name": "vino",
+    "type": "offerings"
+   },
+   {
+    "name": "comida",
+    "type": "dining_options"
+   },
+   {
+    "name": "cena",
+    "type": "dining_options"
+   },
+   {
+    "name": "postres",
+    "type": "dining_options"
+   },
+   {
+    "name": "sitio para sentarse",
+    "type": "dining_options"
+   },
+   {
+    "name": "servicio en mesa",
+    "type": "dining_options"
+   },
+   {
+    "name": "aseos",
+    "type": "amenities"
+   },
+   {
+    "name": "bar",
+    "type": "amenities"
+   },
+   {
+    "name": "ideal para familias",
+    "type": "crowd"
+   },
+   {
+    "name": "se aceptan reservas",
+    "type": "planning"
+   },
+   {
+    "name": "adecuado para niños",
+    "type": "children"
+   }
+  ],
+  "googleTypeTags": [
+   "restaurante"
+  ]
+ },
+ {
+  "name": "Tiflis Restaurant",
+  "rawAddress": "Carrer del Consell de Cent, 487, Eixample, 08013 Barcelona",
+  "telephone": "631489757",
+  "website": "https://www.tiflisbarcelona.com/",
+  "rating": 4.1,
+  "euroScale": null,
+  "description": null,
+  "timetable": null,
+  "totalReviews": 0,
+  "rating5": 0,
+  "rating4": 0,
+  "rating3": 0,
+  "rating2": 0,
+  "rating1": 0,
+  "rushHoursJson": {},
+  "reservationUrlsJson": null,
+  "menuUrl": null,
+  "ownerClaimed": 1,
+  "locationDescription": null,
+  "addBusinessButton": 0,
+  "hasCartaTab": 0,
+  "latitude": 41.3997805,
+  "longitude": 2.1770978999999997,
+  "closedAt": "2026-04-27 17:55",
+  "googleMapsUrl": "https://maps.google.es/?cid=3659334972285990126",
+  "googlePlaceId": "ChIJqTJI7ESjpBIR7jRF8cSRyDI",
+  "extraTimetablesJson": [],
+  "deliveryUrlsJson": null,
+  "temporalClosedAt": null,
+  "tagsRestaurantGoogle": [
+   {
+    "name": "restaurante georgiano",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "bar",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "cafetería",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "restaurante",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "vinoteca",
+    "type": "restaurant_type"
+   },
+   {
+    "name": "acceso para sillas de ruedas",
+    "type": "accessibility"
+   },
+   {
+    "name": "se identifica como de propietarias mujeres",
+    "type": "from_the_business"
+   },
+   {
+    "name": "terraza",
+    "type": "service_options"
+   },
+   {
+    "name": "entrega sin contacto",
+    "type": "service_options"
+   },
+   {
+    "name": "a domicilio",
+    "type": "service_options"
+   },
+   {
+    "name": "para llevar",
+    "type": "service_options"
+   },
+   {
+    "name": "comer allí",
+    "type": "service_options"
+   },
+   {
+    "name": "música en directo",
+    "type": "highlights"
+   },
+   {
+    "name": "bebidas alcohólicas",
+    "type": "offerings"
+   },
+   {
+    "name": "café",
+    "type": "offerings"
+   },
+   {
+    "name": "cerveza",
+    "type": "offerings"
+   },
+   {
+    "name": "cócteles",
+    "type": "offerings"
+   },
+   {
+    "name": "comida vegetariana",
+    "type": "offerings"
+   },
+   {
+    "name": "licores fuertes",
+    "type": "offerings"
+   },
+   {
+    "name": "se sirve comida hasta tarde",
+    "type": "offerings"
+   },
+   {
+    "name": "se sirven ensaladas",
+    "type": "offerings"
+   },
+   {
+    "name": "vino",
+    "type": "offerings"
+   },
+   {
+    "name": "desayuno",
+    "type": "dining_options"
+   },
+   {
+    "name": "comida",
+    "type": "dining_options"
+   },
+   {
+    "name": "cena",
+    "type": "dining_options"
+   },
+   {
+    "name": "cátering",
+    "type": "dining_options"
+   },
+   {
+    "name": "postres",
+    "type": "dining_options"
+   },
+   {
+    "name": "sitio para sentarse",
+    "type": "dining_options"
+   },
+   {
+    "name": "aseos",
+    "type": "amenities"
+   },
+   {
+    "name": "wi-fi",
+    "type": "amenities"
+   },
+   {
+    "name": "wi-fi gratis",
+    "type": "amenities"
+   },
+   {
+    "name": "ideal para familias",
+    "type": "crowd"
+   },
+   {
+    "name": "se aceptan reservas",
+    "type": "planning"
+   },
+   {
+    "name": "pagos con móvil vía nfc",
+    "type": "payments"
+   },
+   {
+    "name": "tarjetas de débito",
+    "type": "payments"
+   },
+   {
+    "name": "tarjetas de crédito",
+    "type": "payments"
+   },
+   {
+    "name": "adecuado para niños",
+    "type": "children"
+   }
+  ],
+  "googleTypeTags": [
+   "restaurante georgiano",
+   "bar",
+   "cafeteria",
+   "restaurante",
+   "vinoteca"
+  ]
+ }
+]

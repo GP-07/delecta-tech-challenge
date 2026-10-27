@@ -1,0 +1,24 @@
+{% load static %}<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ingresar · Dashboard</title>
+  <link rel="stylesheet" href="{% static 'dashboard-login/login.css' %}">
+</head>
+<body>
+  <main>
+    <h1>Dashboard de restaurantes</h1>
+    <form method="post">
+      {% csrf_token %}
+      {% if form.non_field_errors %}<p class="error" role="alert">{{ form.non_field_errors.0 }}</p>{% endif %}
+      <label for="id_username">Usuario</label>
+      <input id="id_username" name="username" autocomplete="username" required autofocus value="{{ form.username.value|default:'' }}">
+      <label for="id_password">Contraseña</label>
+      <input id="id_password" name="password" type="password" autocomplete="current-password" required>
+      <input type="hidden" name="next" value="{{ next }}">
+      <button type="submit">Ingresar</button>
+    </form>
+  </main>
+</body>
+</html>

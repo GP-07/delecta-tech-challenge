@@ -1,0 +1,10 @@
+.venv
+.env
+output
+**/__pycache__
+.pytest_cache
+.ruff_cache
+*.egg-info
+frontend/node_modules
+src/apps/dashboard/static/dashboard
+data

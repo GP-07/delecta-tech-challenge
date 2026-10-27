@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.env
+output/
+*.failures.json
+*.partial.json
+staticfiles/
+data/
+src/apps/dashboard/static/dashboard/
